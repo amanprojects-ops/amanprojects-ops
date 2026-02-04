@@ -58,11 +58,11 @@ Industry-aligned Computer Science degree with emphasis on software, databases, a
 ## 📫 Let’s Connect
 
 📍 Saharsa, Bihar, India  
-📧 Email:   
+📧 Email:  hello@amanprojects.com
 📞 Phone: +91 9470080756  
 🌍 Website: https://amanprojects.com  
 🔗 GitHub: https://github.com/amanprojects-ops
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/aman-ji-073506319/
 
 ---
 
