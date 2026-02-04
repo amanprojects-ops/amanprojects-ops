@@ -3,7 +3,7 @@
 🌐 Portfolio: https://amanprojects.com
 
 ## 🚀 About Me
-I'm a **Full-Stack Web Developer** specializing in **PHP & Laravel**, with a strong emphasis on **UI/UX-focused, scalable, and production-ready web applications**. I approach every project with a problem-first mindset: clean code, optimized performance, and user-centric design. :contentReference[oaicite:1]{index=1}
+I'm a **Full-Stack Web Developer** specializing in **PHP & Laravel**, with a strong emphasis on **UI/UX-focused, scalable, and production-ready web applications**. I approach every project with a problem-first mindset: clean code, optimized performance, and user-centric design.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a **Full-Stack Web Developer** specializing in **PHP & Laravel**, with a str
 **Backend:** PHP (Core, OOP, Secure Coding), Laravel  
 **Database:** MySQL, Database Design  
 **Tools:** Git & GitHub, REST API, Responsive Design, SEO-Friendly Markup  
-**Others:** Payments API Integration, Debugging & Optimization, UI/UX Implementation :contentReference[oaicite:2]{index=2}
+**Others:** Payments API Integration, Debugging & Optimization, UI/UX Implementation
 
 ---
 
@@ -22,21 +22,17 @@ I'm a **Full-Stack Web Developer** specializing in **PHP & Laravel**, with a str
 ### 🌟 EarlyPerson – Loan & Finance Management
 A smart loan and finance system with role-based controls, secure workflows, and credit monitoring.
 
-👉 Live Demo: *(add your demo link)* :contentReference[oaicite:3]{index=3}
-
 ---
 
 ### 👨‍💼 World Rision – Employee Management Portal
 A Laravel-powered, secure employee management system with token-based authentication and API-driven workflows.
-
-👉 Live Demo: *(add link)* :contentReference[oaicite:4]{index=4}
 
 ---
 
 ### ✍️ ExaminfoBlog – Dynamic Multi-User Education Platform
 PHP-based educational blog platform with SEO focus, multi-user management, and clean UI/UX.
 
-👉 https://examinfo.blog :contentReference[oaicite:5]{index=5}
+👉 https://examinfo.blog
 
 ---
 
@@ -44,29 +40,29 @@ PHP-based educational blog platform with SEO focus, multi-user management, and c
 
 **Full-Stack Web Developer** – World Rision Pvt. Ltd.  
 *Aug 2025 – Dec 2025*  
-Worked on employee portal with secure controls and optimized DB design. :contentReference[oaicite:6]{index=6}
+Worked on employee portal with secure controls and optimized DB design.
 
 **Freelance Developer**  
 *2024 – Present*  
-Built school management, admin dashboards, and production-ready systems with performance and security focus. :contentReference[oaicite:7]{index=7}
+Built school management, admin dashboards, and production-ready systems with performance and security focus.
 
 ---
 
 ## 🎓 Education
 
 **BCA** — MLT College, Saharsa (2023–2026)  
-Industry-aligned Computer Science degree with emphasis on software, databases, and web technologies. :contentReference[oaicite:8]{index=8}
+Industry-aligned Computer Science degree with emphasis on software, databases, and web technologies.
 
 ---
 
 ## 📫 Let’s Connect
 
 📍 Saharsa, Bihar, India  
-📧 Email: technicalaman@devbin.site  
+📧 Email:   
 📞 Phone: +91 9470080756  
 🌍 Website: https://amanprojects.com  
-🔗 GitHub: https://github.com/YOUR_USERNAME  
-🔗 LinkedIn: *(add link here)* :contentReference[oaicite:9]{index=9}
+🔗 GitHub: https://github.com/amanprojects-ops
+🔗 LinkedIn: 
 
 ---
 
