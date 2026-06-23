@@ -130,7 +130,9 @@ Open to:
 🧠 Curious by nature  
 💻 Code is my toolkit  
 🔐 Security is my mindset  
-🎯 Practical > Fancy  
+🎯 Practical > Fancy
+```
+
 ## 👨‍💻 Author
 
 <div align="center">
