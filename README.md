@@ -131,3 +131,19 @@ Open to:
 💻 Code is my toolkit  
 🔐 Security is my mindset  
 🎯 Practical > Fancy  
+## 👨‍💻 Author
+
+<div align="center">
+
+### Built with 🔥 by [Aman](https://amanprojects.com)
+
+[![Website](https://img.shields.io/badge/🌐_Website-amanprojects.com-blue?style=for-the-badge)](https://amanprojects.com)
+[![GitHub](https://img.shields.io/badge/GitHub-amanprojects--ops-181717?style=for-the-badge&logo=github)](https://github.com/amanprojects-ops)
+
+---
+
+<sub>© 2025 <strong>AmanProjects</strong> — Full Stack Development & Ethical Hacking | Bihar, India 🇮🇳</sub>
+
+<sub>⚡ <em>Built different. Shipped clean. No cap.</em></sub>
+
+</div>
