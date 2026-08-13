@@ -1,0 +1,50 @@
+﻿# .github/workflows/snake.yml
+# Place this file at: amanprojects-ops/amanprojects-ops/.github/workflows/snake.yml
+#
+# This workflow generates a contribution snake SVG animation from your GitHub
+# contribution grid and commits it to the `output` branch of this repository.
+# The README.md references the raw SVG from that branch.
+
+name: Generate Contribution Snake
+
+on:
+  # Run automatically every day at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+
+  # Also regenerate whenever the README is updated
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+
+jobs:
+  generate:
+    name: Generate snake SVG
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Required to push the generated SVG to the output branch
+
+    steps:
+      - name: Generate contribution snake (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: amanprojects-ops
+
+          # Light mode output
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
