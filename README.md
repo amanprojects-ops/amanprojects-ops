@@ -172,13 +172,13 @@
 
 <br/>
 
-[![Aman Projects GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanprojects-ops&show_icons=true&hide_border=true&count_private=false&theme=tokyonight&rank_icon=github)](https://github.com/amanprojects-ops)
+[![Aman Projects GitHub Stats](https://github-stats-extended.vercel.app/api?username=amanprojects-ops&show_icons=true&hide_border=true&count_private=false&theme=tokyonight&rank_icon=github)](https://github.com/amanprojects-ops)
 &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanprojects-ops&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/amanprojects-ops)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=amanprojects-ops&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/amanprojects-ops)
 
 <br/>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=amanprojects-ops&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://trophy.ryglcloud.net/?username=amanprojects-ops&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
