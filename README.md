@@ -1,275 +1,223 @@
-﻿<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/172597102?v=4" alt="Aman Projects avatar" width="100" style="border-radius:50%;" />
-</p>
+<div align="center">
 
-<h1 align="center">Aman Projects</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Projects&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Ethical%20Hacker%20%7C%20SaaS%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
-<p align="center">
-  Full-Stack PHP Developer &amp; Open Source Builder
-</p>
+<br/>
 
-<p align="center">
-  Building practical web applications, developer tools, automation systems and open-source software.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A77BFF&center=true&vCenter=true&width=700&lines=Full-Stack+PHP+Developer;Ethical+Hacker+%26+Cybersecurity+Expert;SaaS+Builder+%7C+30%2B+Open+Source+Projects;Building+Practical+Tools+for+Real+Problems)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.amanprojects.com">Website</a> &nbsp;&middot;&nbsp;
-  <a href="https://github.com/amanprojects-ops">GitHub</a> &nbsp;&middot;&nbsp;
-  <a href="https://github.com/amanprojects-ops?tab=repositories">Repositories</a> &nbsp;&middot;&nbsp;
-  <a href="https://github.com/amanprojects-ops/technicalaman">Portfolio</a>
-</p>
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-amanprojects.com-6e40c9?style=flat-square&logo=google-chrome&logoColor=white)](https://www.amanprojects.com)
+[![GitHub](https://img.shields.io/badge/GitHub-amanprojects--ops-181717?style=flat-square&logo=github)](https://github.com/amanprojects-ops)
+[![YouTube](https://img.shields.io/badge/YouTube-SafeBanda-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SafeBanda)
+[![Profile Views](https://komarev.com/ghpvc/?username=amanprojects-ops&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/amanprojects-ops)
+
+</div>
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-I build software that solves real problems — PHP-based web platforms, developer tooling, API integrations, automation systems and reusable open-source packages. My focus is on practical, maintainable solutions rather than surface-level demos.
-
-Most of what I ship is Laravel or plain PHP on the backend, with HTML/CSS/JavaScript on the front. I work across the full stack: from CLI scaffolders and installer wizards to dashboards, management portals and content platforms.
-
-**Currently based in India. Open to collaborations on practical open-source PHP tools.**
-
----
-
-## What I Build
-
-**Web Applications**
-Business portals, management systems, content platforms and dashboards — built to be maintainable and production-ready.
-
-**Developer Tools**
-PHP project scaffolders, installer wizards, local development utilities and CLI tools that save time on repetitive setup work.
-
-**Automation &amp; APIs**
-SMS gateways, email senders, webhook integrations, lead generation tools and web-to-printer bridges.
-
-**Open Source**
-Reusable packages, standalone utilities and developer tools — built to actually be used, not just starred.
-
-**UI/UX**
-Responsive interfaces, kiosk dashboards, fintech landing pages and interactive front-end experiences.
+```text
+🏗️  Building production SaaS products under the AmanProjects brand
+🔐  Ethical Hacker — OWASP Top 10, Web App Pentesting, Recon & Exploitation
+🎓  BCA Student @ B.N. Mandal University, Bihar, India
+📺  Running SafeBanda — YouTube channel on CSC VLE & Government Services
+🛠️  30+ open-source repos | PHP & Laravel-first builder
+💡  Philosophy: Ship practical tools. Solve real problems. Keep it clean.
+```
 
 ---
 
-## Flagship Project
+## 🛠️ Tech Stack
 
-### phpstart — PHP Project Scaffolding CLI
+**Languages & Frameworks**
 
-> A command-line tool that scaffolds production-ready PHP projects in seconds. Supports plain PHP, Laravel, MVC, REST API, and Composer package templates with structured directory layouts.
-
-**Stack:** PHP · CLI · Composer · PSR-4
-
-**Topics:** `php-cli` · `php-scaffolding` · `laravel` · `composer-package` · `project-generator` · `developer-tools`
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-phpstart-181717?logo=github)](https://github.com/amanprojects-ops/phpstart)
-[![MIT License](https://img.shields.io/github/license/amanprojects-ops/phpstart)](https://github.com/amanprojects-ops/phpstart/blob/main/LICENSE)
-
-phpstart is the most complete representation of the Aman Projects developer-tooling focus: a practical CLI aimed at PHP developers who want structured scaffolding without a framework lock-in.
-
----
-
-## Featured Projects
-
-### PHP-Installer-Wizard
-
-> A standalone, framework-agnostic PHP project installer wizard with a polished 7-step UI, live SSE progress bar, modular plugin system and enterprise-grade security.
-
-**Stack:** PHP · SSE · MySQL · Laravel · CodeIgniter · Core PHP
-
-Works with any PHP application — Laravel, CodeIgniter, or custom — without modification.
-
-[![GitHub](https://img.shields.io/badge/GitHub-PHP--Installer--Wizard-181717?logo=github)](https://github.com/amanprojects-ops/PHP-Installer-Wizard)
-
----
-
-### Web-to-Printer
-
-> Secure self-hosted bridge connecting web applications to local physical printers. Uses a polling-based Laravel API backend and a cross-platform standalone PHP CLI printing agent.
-
-**Stack:** Laravel · PHP CLI · Blade · REST API
-
-[![GitHub](https://img.shields.io/badge/GitHub-Web--to--Printer-181717?logo=github)](https://github.com/amanprojects-ops/Web-to-Printer)
-
----
-
-### SmartSchool-Portal
-
-> Comprehensive school and education management system. Includes Student/Teacher portals, attendance tracking, exam management, noticeboard, live chat and a full admin control panel.
-
-**Stack:** PHP · CodeIgniter · MySQL · HTML · CSS
-
-[![GitHub](https://img.shields.io/badge/GitHub-SmartSchool--Portal-181717?logo=github)](https://github.com/amanprojects-ops/SmartSchool-Portal)
-
----
-
-### APCooprateCMS
-
-> Custom corporate CMS for managing Services, Products, Projects and Blogs. Built on Laravel 12 with Blade, Tailwind CSS and Alpine.js. No third-party admin panel — pure custom-built CRUD.
-
-**Stack:** Laravel 12 · Blade · Tailwind CSS · Alpine.js · MySQL
-
-[![GitHub](https://img.shields.io/badge/GitHub-APCooprateCMS-181717?logo=github)](https://github.com/amanprojects-ops/APCooprateCMS)
-
----
-
-### sms-gateway
-
-> Robust, scalable SMS Gateway API service. Allows developers to send SMS messages and OTP codes programmatically via a clean REST API.
-
-**Stack:** PHP · REST API · MySQL
-
-[![GitHub](https://img.shields.io/badge/GitHub-sms--gateway-181717?logo=github)](https://github.com/amanprojects-ops/sms-gateway)
-
----
-
-### LeadHarvest
-
-> Google Maps-based lead generation tool. Extracts business data — name, phone, address, website, ratings — for sales and marketing outreach.
-
-**Stack:** Laravel · JavaScript · Google Maps API
-
-[![GitHub](https://img.shields.io/badge/GitHub-LeadHarvest-181717?logo=github)](https://github.com/amanprojects-ops/LeadHarvest)
-
----
-
-### Local-Dev-Hub — ProjectsLister
-
-> Glassmorphic local development hub to instantly list, search and launch all local PHP projects in a browser. Built in PHP/JS, no configuration required.
-
-**Stack:** PHP · JavaScript · CSS
-
-[![GitHub](https://img.shields.io/badge/GitHub-Local--Dev--Hub-181717?logo=github)](https://github.com/amanprojects-ops/Local-Dev-Hub---ProjectsLister)
-
----
-
-### FlashFeed
-
-> High-performance, responsive news and educational portal built on a custom PSR-4 MVC Framework architecture in PHP. Successor to PHP-News-Website.
-
-**Stack:** PHP · PSR-4 MVC · MySQL · HTML · CSS
-
-[![GitHub](https://img.shields.io/badge/GitHub-FlashFeed-181717?logo=github)](https://github.com/amanprojects-ops/FlashFeed)
-
----
-
-## Tech Stack
-
-**Languages**
-PHP · JavaScript · HTML · CSS · Blade (Laravel templating)
-
-**Frameworks &amp; Libraries**
-Laravel · CodeIgniter · Alpine.js · Tailwind CSS · PHPMailer · Composer
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 
 **Databases**
-MySQL · MariaDB · IndexedDB (browser-side)
 
-**Developer Tools**
-Git · GitHub · Composer · npm · GitHub Actions · GitHub Pages
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Platforms &amp; Environments**
-Linux · Windows · PHP CLI · REST APIs · PWA
+**Security & Pentesting**
 
----
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-## More Projects
+**Tools & DevOps**
 
-### 🧰 Developer Tools
-- [phpstart](https://github.com/amanprojects-ops/phpstart) — PHP project scaffolding CLI
-- [PHP-Installer-Wizard](https://github.com/amanprojects-ops/PHP-Installer-Wizard) — Universal PHP app installer
-- [Local-Dev-Hub](https://github.com/amanprojects-ops/Local-Dev-Hub---ProjectsLister) — Local project launcher
-- [readme-reader](https://github.com/amanprojects-ops/readme-reader) — Offline terminal-style Markdown reader
-- [website-cloner](https://github.com/amanprojects-ops/website-cloner) — Full-site cloning tool
-- [quick-file-transfer](https://github.com/amanprojects-ops/quick-file-transfer) — Self-hosted file share via unique links
-
-### 🌐 Web Applications
-- [SmartSchool-Portal](https://github.com/amanprojects-ops/SmartSchool-Portal) — School management system
-- [APCooprateCMS](https://github.com/amanprojects-ops/APCooprateCMS) — Corporate CMS (Laravel 12)
-- [HRM-SYSTEM](https://github.com/amanprojects-ops/HRM-SYSTEM) — HR management system (Laravel + Blade)
-- [smart-store](https://github.com/amanprojects-ops/smart-store) — Intelligent retail management SaaS
-- [Credit-Report-Portal](https://github.com/amanprojects-ops/Credit-Report-Portal) — B2B CIBIL/credit score proxy portal
-- [Laravel-Modern-News](https://github.com/amanprojects-ops/Laravel-Modern-News) — CMS for news agencies and publishers
-
-### ⚙️ Automation &amp; APIs
-- [sms-gateway](https://github.com/amanprojects-ops/sms-gateway) — SMS/OTP REST API service
-- [MailSender](https://github.com/amanprojects-ops/MailSender) — Security-first SMTP mailer (PHP + PHPMailer)
-- [Web-to-Printer](https://github.com/amanprojects-ops/Web-to-Printer) — Web app to physical printer bridge
-- [LeadHarvest](https://github.com/amanprojects-ops/LeadHarvest) — Google Maps lead extraction tool
-- [whatsapp-bulk-sender](https://github.com/amanprojects-ops/whatsapp-bulk-sender) — Multi-API WhatsApp message sender
-
-### 🎨 UI / Front-End
-- [amanos](https://github.com/amanprojects-ops/amanos) — Browser-based Windows 7-style desktop environment
-- [OmniKiosk](https://github.com/amanprojects-ops/OmniKiosk) — Kiosk/POS admin dashboard template
-- [techfix-laptop-repair-website](https://github.com/amanprojects-ops/techfix-laptop-repair-website) — Laptop repair business site with multi-step booking
-- [creditIndia-landing-page-template](https://github.com/amanprojects-ops/creditIndia-landing-page-template) — Fintech landing page template
-- [epos-receipt-generator](https://github.com/amanprojects-ops/epos-receipt-generator) — Offline PWA receipt generator with IndexedDB
-- [wadding-card](https://github.com/amanprojects-ops/wadding-card) — Animated digital wedding invitation (GSAP + 3D flip)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Current Focus
+## 🔐 Ethical Hacking & Cybersecurity
 
-- PHP developer tooling — scaffolders, installer wizards, utilities
-- Laravel application architecture and CMS platforms
-- API design and automation systems (SMS, email, WhatsApp, printing)
-- Open-source PHP packages for the developer community
-- Practical front-end for business and service websites
+```text
+🔎  Web Application Pentesting — OWASP Top 10 methodology
+🕵️  Reconnaissance & OSINT — Passive and active information gathering
+💉  Injection attacks — SQLi, XSS, CSRF, SSRF detection & exploitation
+🛡️  Vulnerability Assessment & Security Hardening
+🔑  Auth bypass, broken access control, insecure direct object references
+🌐  Network scanning — Nmap, Wireshark, Netcat
+⚔️  Exploitation frameworks — Metasploit, custom payloads, reverse shells
+🧪  CTFs, Bug Bounty (authorized scope), Lab environments only
+```
 
 ---
 
-## Development Philosophy
+## 🚀 SaaS Products
 
-- Build software that solves a specific, real problem.
-- Prefer maintainable, readable code over clever abstractions.
-- Document what others need to actually use the project.
-- Automate repetitive developer work so it does not get done twice.
-- Keep open-source tools lightweight, dependency-aware and accessible.
+> Private, production-grade systems under the **AmanProjects** brand
+
+| Product | Description | Stack |
+|---------|-------------|-------|
+| 🎓 **AP Coaching** | Multi-tenant coaching management + admit card generator | Laravel · Filament |
+| 📚 **AP Library** | Seat booking SaaS with multi-tenancy | Laravel · stancl/tenancy |
+| 💳 **PayOrbit** | Payment orchestration with dynamic gateway shuffle | Laravel · Razorpay |
+| 🎯 **QuizEarn** | Real-money MCQ platform with live WebSockets | Laravel · WebSockets |
+| 🛒 **Smart Store** | AI-powered retail management SaaS | Laravel · Claude API · Filament v3 |
+| 🖨️ **DigitalCopy Tool** | CSC document print portal for VLE operators | Laravel |
+
+---
+
+## 🎯 Currently Building
+
+- 🌐 **Cyber Cafe Website** — Public site + user/admin dashboard with dynamic form builder
+- 🏠 **Home Server** — Self-hosted file storage & website hosting API panel
+- 🎓 **AP Coaching** — Admit card generator & B2B sales module
+
+---
+
+## 📦 Featured Open Source
+
+<details open>
+<summary>🧰 Developer Tools</summary>
+
+| Project | Description |
+|---------|-------------|
+| [phpstart](https://github.com/amanprojects-ops/phpstart) | PHP project scaffolding CLI — plain PHP, Laravel, MVC, REST, Composer templates |
+| [PHP-Installer-Wizard](https://github.com/amanprojects-ops/PHP-Installer-Wizard) | Universal PHP app installer — SSE progress bar, 7-step UI, modular plugin system |
+| [Local-Dev-Hub](https://github.com/amanprojects-ops/Local-Dev-Hub---ProjectsLister) | Glassmorphic local PHP project launcher — no config required |
+| [quick-file-transfer](https://github.com/amanprojects-ops/quick-file-transfer) | Self-hosted file share via unique one-time links |
+| [readme-reader](https://github.com/amanprojects-ops/readme-reader) | Offline terminal-style Markdown reader |
+| [website-cloner](https://github.com/amanprojects-ops/website-cloner) | Full-site cloning tool |
+
+</details>
+
+<details>
+<summary>🌐 Web Applications</summary>
+
+| Project | Description |
+|---------|-------------|
+| [SmartSchool-Portal](https://github.com/amanprojects-ops/SmartSchool-Portal) | Full school management — attendance, exams, live chat, admin panel |
+| [APCooprateCMS](https://github.com/amanprojects-ops/APCooprateCMS) | Corporate CMS (Laravel 12 · Tailwind · Alpine.js) |
+| [HRM-SYSTEM](https://github.com/amanprojects-ops/HRM-SYSTEM) | HR management system (Laravel + Blade) |
+| [FlashFeed](https://github.com/amanprojects-ops/FlashFeed) | High-performance news portal on custom PSR-4 MVC |
+| [Credit-Report-Portal](https://github.com/amanprojects-ops/Credit-Report-Portal) | B2B CIBIL/credit score proxy portal |
+
+</details>
+
+<details>
+<summary>⚙️ Automation & APIs</summary>
+
+| Project | Description |
+|---------|-------------|
+| [sms-gateway](https://github.com/amanprojects-ops/sms-gateway) | SMS/OTP REST API service |
+| [Web-to-Printer](https://github.com/amanprojects-ops/Web-to-Printer) | Web app to physical printer bridge via polling API |
+| [LeadHarvest](https://github.com/amanprojects-ops/LeadHarvest) | Google Maps lead extraction — name, phone, address, ratings |
+| [MailSender](https://github.com/amanprojects-ops/MailSender) | Security-first SMTP mailer (PHP + PHPMailer) |
+| [whatsapp-bulk-sender](https://github.com/amanprojects-ops/whatsapp-bulk-sender) | Multi-API WhatsApp bulk message sender |
+
+</details>
+
+<details>
+<summary>🎨 UI / Front-End</summary>
+
+| Project | Description |
+|---------|-------------|
+| [amanos](https://github.com/amanprojects-ops/amanos) | Browser-based Windows 7-style OS desktop environment |
+| [OmniKiosk](https://github.com/amanprojects-ops/OmniKiosk) | Kiosk/POS admin dashboard template |
+| [epos-receipt-generator](https://github.com/amanprojects-ops/epos-receipt-generator) | Offline PWA receipt generator with IndexedDB |
+| [wadding-card](https://github.com/amanprojects-ops/wadding-card) | Animated 3D digital wedding invitation (GSAP) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanprojects-ops&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+[![Aman Projects GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanprojects-ops&show_icons=true&hide_border=true&count_private=false&theme=tokyonight&rank_icon=github)](https://github.com/amanprojects-ops)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanprojects-ops&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/amanprojects-ops)
+
+<br/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=amanprojects-ops&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanprojects-ops/amanprojects-ops/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanprojects-ops/amanprojects-ops/output/github-contribution-grid-snake.svg" />
-    <img alt="Aman Projects GitHub contribution snake animation" src="https://raw.githubusercontent.com/amanprojects-ops/amanprojects-ops/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<div align="center">
 
-> The snake animation is generated automatically via GitHub Actions on a daily schedule.
-> If it does not appear, the workflow needs to run at least once — see .github/workflows/snake.yml.
+![GitHub Contribution Snake](https://raw.githubusercontent.com/amanprojects-ops/amanprojects-ops/output/github-contribution-grid-snake.svg)
+
+> Snake is auto-generated daily via GitHub Actions. See `.github/workflows/snake.yml` if it doesn't load.
+
+</div>
 
 ---
 
-## GitHub Stats
+## 🤝 Connect
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amanprojects-ops&show_icons=true&hide_border=true&count_private=false&theme=default"
-    alt="Aman Projects GitHub stats"
-    height="150"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanprojects-ops&layout=compact&hide_border=true&theme=default"
-    alt="Aman Projects top languages"
-    height="150"
-  />
-</p>
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-amanprojects.com-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.amanprojects.com)
+&nbsp;
+[![YouTube SafeBanda](https://img.shields.io/badge/YouTube-SafeBanda-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SafeBanda)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-amanprojects--ops-181717?style=for-the-badge&logo=github)](https://github.com/amanprojects-ops)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-technicalaman-blue?style=for-the-badge&logo=github)](https://github.com/amanprojects-ops/technicalaman)
+
+</div>
 
 ---
 
-## Connect
+<div align="center">
 
-- **Website:** [www.amanprojects.com](https://www.amanprojects.com)
-- **GitHub:** [github.com/amanprojects-ops](https://github.com/amanprojects-ops)
-- **Portfolio:** [technicalaman](https://github.com/amanprojects-ops/technicalaman)
+*Building useful software, one project at a time.*
 
----
+*Aman Projects · Bihar, India · PHP · Laravel · Open Source · Ethical Hacking*
 
-<p align="center">
-  Building useful software, one project at a time.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <sub>Aman Projects &nbsp;&middot;&nbsp; India &nbsp;&middot;&nbsp; PHP &nbsp;&middot;&nbsp; Laravel &nbsp;&middot;&nbsp; Open Source</sub>
-</p>
+</div>
