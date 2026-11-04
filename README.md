@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Projects&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Web%2C%20PWA%2C%20App%20%26%20API%20Architect&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Projects&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Web%20%7C%20PWA%20%7C%20Apps%20%7C%20Custom%20APIs&descAlignY=58&descSize=17" width="100%" alt="Aman Projects Banner"/>
 
 <br/>
 
@@ -220,6 +220,6 @@
 
 *Aman Projects · Bihar, India · Website · PWA · Android · Windows · Console · Custom APIs*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
