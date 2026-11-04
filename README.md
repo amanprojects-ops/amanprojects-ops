@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Projects&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Ethical%20Hacker%20%7C%20SaaS%20Builder&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Projects&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Full-Stack%20Web%2C%20PWA%2C%20App%20%26%20API%20Architect&descAlignY=58&descSize=17" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A77BFF&center=true&vCenter=true&width=700&lines=Full-Stack+PHP+Developer;Ethical+Hacker+%26+Cybersecurity+Expert;SaaS+Builder+%7C+30%2B+Open+Source+Projects;Building+Practical+Tools+for+Real+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A77BFF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Websites+%26+Progressive+Web+Apps+(PWA);Android+%26+Windows+Desktop+Apps;Console+Apps+%26+CLI+Tools;Custom+REST+APIs+%26+Automation+Builds;SaaS+Builder+%7C+30%2B+Open+Source+Projects;Building+Practical+Tools+for+Real+Problems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,11 +20,15 @@
 ## 🧑‍💻 About Me
 
 ```text
-🏗️  Building production SaaS products under the AmanProjects brand
-🔐  Ethical Hacker — OWASP Top 10, Web App Pentesting, Recon & Exploitation
+🏗️  Building production SaaS products & full-stack web platforms
+🌐  Website Development — Responsive portals, CMS architectures & landing pages
+📱  PWA & Mobile — Offline-first Progressive Web Apps & Android applications
+🖥️  Desktop & Systems — Windows applications & local utilities
+⚡  Console & CLI Tools — PHP scaffolding CLIs, automation scripts & terminal tools
+🔌  Custom APIs — High-performance REST APIs, webhook services & database bridges
 🎓  BCA Student @ B.N. Mandal University, Bihar, India
 📺  Running SafeBanda — YouTube channel on CSC VLE & Government Services
-🛠️  30+ open-source repos | PHP & Laravel-first builder
+🛠️  30+ open-source repos | Practical tools for real-world problems
 💡  Philosophy: Ship practical tools. Solve real problems. Keep it clean.
 ```
 
@@ -43,20 +47,20 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 
+**Platforms & Development Focus**
+
+![Web Development](https://img.shields.io/badge/Website_Development-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA_(Progressive_Web_Apps)-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Android App](https://img.shields.io/badge/Android_Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows App](https://img.shields.io/badge/Windows_Apps-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Console Apps](https://img.shields.io/badge/Console_&_CLI_Apps-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+![Custom APIs](https://img.shields.io/badge/Custom_REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Security & Pentesting**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 **Tools & DevOps**
 
@@ -70,17 +74,15 @@
 
 ---
 
-## 🔐 Ethical Hacking & Cybersecurity
+## 💻 Core Capabilities & Solutions
 
 ```text
-🔎  Web Application Pentesting — OWASP Top 10 methodology
-🕵️  Reconnaissance & OSINT — Passive and active information gathering
-💉  Injection attacks — SQLi, XSS, CSRF, SSRF detection & exploitation
-🛡️  Vulnerability Assessment & Security Hardening
-🔑  Auth bypass, broken access control, insecure direct object references
-🌐  Network scanning — Nmap, Wireshark, Netcat
-⚔️  Exploitation frameworks — Metasploit, custom payloads, reverse shells
-🧪  CTFs, Bug Bounty (authorized scope), Lab environments only
+🌐  Website Development — Full-stack portals, custom CMSs, multi-tenant architectures & business sites
+📱  Progressive Web Apps (PWA) — Installable, offline-first web apps with service workers & local caching
+🤖  Android Applications — Mobile solutions, WebView/hybrid integrations & responsive app workflows
+🖥️  Windows Applications — Local desktop tools, printer bridges, POS systems & client utilities
+⚡  Console & CLI Applications — Project scaffolders (phpstart), automated installers & batch processing scripts
+🔌  Custom APIs & Automation — High-speed RESTful APIs, SMS gateways, webhook handlers & polling bridges
 ```
 
 ---
@@ -102,7 +104,7 @@
 
 ## 🎯 Currently Building
 
-- 🌐 **Cyber Cafe Website** — Public site + user/admin dashboard with dynamic form builder
+- 🌐 **CSC Center & Digital Services Portal** — Public site + user/admin dashboard with dynamic form builder
 - 🏠 **Home Server** — Self-hosted file storage & website hosting API panel
 - 🎓 **AP Coaching** — Admit card generator & B2B sales module
 
@@ -111,7 +113,7 @@
 ## 📦 Featured Open Source
 
 <details open>
-<summary>🧰 Developer Tools</summary>
+<summary>🧰 Developer Tools & CLI</summary>
 
 | Project | Description |
 |---------|-------------|
@@ -138,20 +140,20 @@
 </details>
 
 <details>
-<summary>⚙️ Automation & APIs</summary>
+<summary>⚙️ Custom APIs & Automation</summary>
 
 | Project | Description |
 |---------|-------------|
 | [sms-gateway](https://github.com/amanprojects-ops/sms-gateway) | SMS/OTP REST API service |
 | [Web-to-Printer](https://github.com/amanprojects-ops/Web-to-Printer) | Web app to physical printer bridge via polling API |
 | [LeadHarvest](https://github.com/amanprojects-ops/LeadHarvest) | Google Maps lead extraction — name, phone, address, ratings |
-| [MailSender](https://github.com/amanprojects-ops/MailSender) | Security-first SMTP mailer (PHP + PHPMailer) |
+| [MailSender](https://github.com/amanprojects-ops/MailSender) | Reliable SMTP mailer with clean configuration (PHP + PHPMailer) |
 | [whatsapp-bulk-sender](https://github.com/amanprojects-ops/whatsapp-bulk-sender) | Multi-API WhatsApp bulk message sender |
 
 </details>
 
 <details>
-<summary>🎨 UI / Front-End</summary>
+<summary>🎨 UI / Front-End & PWA</summary>
 
 | Project | Description |
 |---------|-------------|
@@ -216,7 +218,7 @@
 
 *Building useful software, one project at a time.*
 
-*Aman Projects · Bihar, India · PHP · Laravel · Open Source · Ethical Hacking*
+*Aman Projects · Bihar, India · Website · PWA · Android · Windows · Console · Custom APIs*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
